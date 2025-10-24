@@ -1,7 +1,5 @@
-<!-- 🧠 AI Engineer Professional GitHub README for Judy Kasbar -->
 
-<!-- Optional Banner (replace the link with your uploaded banner) -->
-![AI Engineer Banner](https://raw.githubusercontent.com/judykasbar/judykasbar/main/banner.png)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/judykasbar/judykasbar/main/ai_engineer.jpg" 
