@@ -1,4 +1,15 @@
 # portfolio-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/profile.jpg" 
+       alt="Judy Kasbar - AI Engineer" 
+       width="200" 
+       style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</p>
+
+<h1 align="center">👩‍💻 Judy Kasbar</h1>
+<h3 align="center">AI Engineer | Data Scientist | Passionate about Machine Learning</h3>
+
+---
 ## 🧰 Languages & Tools
 # 👋 Hi, I'm Judy Kasbar  
 🎓 AI & Data Science Student | 💡 Passionate about Machine Learning & Web Development  
