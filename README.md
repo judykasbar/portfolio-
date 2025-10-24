@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/judykasbar/judykasbar/main/ai_engineer.jpg" 
+  <img src="[https://raw.githubusercontent.com/judykasbar/judykasbar/main/ai_engineer.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflatironschool.com%2Fblog%2Fsoftware-engineering-in-the-age-of-ai%2F&psig=AOvVaw3gSEUzoEtYOyEYAZK-rmTi&ust=1761423995243000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCu_u_VvZADFQAAAAAdAAAAABAE)" 
        alt="Judy Kasbar - AI Engineer" 
        width="220" 
        style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
