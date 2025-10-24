@@ -1,13 +1,17 @@
-# portfolio-
+<!-- 🧠 AI Engineer Professional GitHub README for Judy Kasbar -->
+
+<!-- Optional Banner (replace the link with your uploaded banner) -->
+![AI Engineer Banner](https://raw.githubusercontent.com/judykasbar/judykasbar/main/banner.png)
+
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflatironschool.com%2Fblog%2Fsoftware-engineering-in-the-age-of-ai%2F&psig=AOvVaw3gSEUzoEtYOyEYAZK-rmTi&ust=1761423995243000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCu_u_VvZADFQAAAAAdAAAAABAE" 
+  <img src="https://raw.githubusercontent.com/judykasbar/judykasbar/main/ai_engineer.jpg" 
        alt="Judy Kasbar - AI Engineer" 
-       width="200" 
-       style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+       width="220" 
+       style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
 </p>
 
 <h1 align="center">👩‍💻 Judy Kasbar</h1>
-<h3 align="center">AI Engineer | Data Scientist | Passionate about Machine Learning</h3>
+<h3 align="center">AI Engineer | Data Scientist | Machine Learning Enthusiast</h3>
 
 ---
 ## 🧰 Languages & Tools
