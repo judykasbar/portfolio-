@@ -1,84 +1,87 @@
 <p align="center">
   <img src="https://api.dicebear.com/6.x/bottts/svg?seed=JudyKasbar&scale=90" 
-       alt="Judy Kasbar - AI Engineer (avatar)" 
-       width="220" 
+       alt="Judy Kasbar Avatar" 
+       width="200" 
        style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
 </p>
 
-<h1 align="center">👩‍💻 Judy Kasbar</h1>
-<h3 align="center">AI Engineer | Data Scientist | Machine Learning Enthusiast</h3>
----
-## 🧰 Languages & Tools
-# 👋 Hi, I'm Judy Kasbar  
-🎓 AI & Data Science Student | 💡 Passionate about Machine Learning & Web Development  
+<h1 align="center">💫 Judy Kasbar</h1>
+<h3 align="center">Computer Science Student | Junior Data Scientist | Operations Manager at DotPy</h3>
 
 ---
 
 ## 🧠 About Me  
-- 🎯 Junior Data Scientist with experience in ML, DL, and Web Development.  
-- 💻 Skilled in **Python**, **C++**, **Java**, and **HTML/CSS**.  
-- 🌍 Based in Egypt, passionate about AI for social impact.  
-- 📫 Reach me at: [kasbarjudy@gmail.com](mailto:kasbarjudy@gmail.com)
+- 🎓 Computer Science student passionate about *Artificial Intelligence* and *Machine Learning*.  
+- 💻 Junior Data Scientist with hands-on experience in *data analysis* and *machine learning models*.  
+- ⚙ Currently working as *Operations Manager at DotPy*, managing workflows, course materials, and educational content.  
+- 🌙 Passionate about simplifying AI concepts and inspiring others to explore the world of Data Science.  
+
+📫 Reach me at: [judykasbar@gmail.com](mailto:judykasbar@gmail.com)
 
 ---
 
-## 🚀 Featured Projects  
+## 🔧 Technical Skills  
 
-### 🤖 [AI-Powered Chatbot](https://github.com/username/chatbot)
-A conversational AI built using Python & NLP to simulate natural dialogues.  
-**Tech:** Python, TensorFlow, NLTK
-
-### 📊 [Data Science Dashboard](https://github.com/username/data-dashboard)
-An interactive dashboard for data visualization using **Power BI** & **Python (Plotly)**.  
-
-### 🧩 [IoT Smart Home System](https://github.com/username/iot-system)
-IoT project controlling devices via sensors and automation rules.  
+### 💻 Programming Languages  
+- *Python:* Data manipulation, analysis, and building ML models.  
+- *C++:* Strong understanding of problem solving and algorithms.  
+- *SQL:* Querying and managing structured data for analysis and reporting.  
 
 ---
 
-## 🧰 Skills
-- **Programming:** Python, C++, Java, HTML/CSS  
-- **AI Tools:** TensorFlow, Scikit-Learn, Keras  
-- **Data:** Power BI, Pandas, Numpy, Matplotlib  
-- **Web:** Flask, JavaScript, React  
+### 📊 Data Science & Machine Learning  
+- *Data Preprocessing:* Cleaning, transforming, and handling missing data.  
+- *Exploratory Data Analysis (EDA):* Discovering insights using Python visualization tools.  
+- *Model Building:* Regression, Classification, and Clustering using scikit-learn.  
+- *Model Evaluation:* Accuracy, Confusion Matrix, Precision, Recall, F1-score, ROC-AUC.  
+- *Feature Engineering:* Scaling, encoding, and selecting the best features.  
+- *Core Libraries:* pandas, NumPy, scikit-learn, matplotlib, seaborn.  
+- *Deep Learning Basics:* TensorFlow & Keras for simple neural networks.  
 
 ---
 
-## 🏅 Certificates & Achievements  
-- Machine Learning (Coursera – Andrew Ng)  
-- Data Analysis Professional (Udacity)  
-- AI Catalyst Talks Speaker
-- ## 🧰 Languages & Tools
+### 🤖 Artificial Intelligence  
+- *LLMs (Large Language Models):* Understanding and experimenting with prompt engineering.  
+- *RAG & AI Agents:* Exploring retrieval-augmented generation and automation concepts.  
+- *NLP:* Text preprocessing and sentiment analysis.  
 
+---
+
+### 📈 Data Visualization & Reporting  
+- *Power BI:* Creating interactive reports and dashboards.  
+- *matplotlib & seaborn:* Visualizing trends and insights.  
+
+---
+
+### ⚙ Tools & Platforms  
+- *Development:* VS Code, Google Colab, Jupyter Notebook.  
+- *Version Control:* Git & GitHub.  
+- *Design & Presentation:* Canva (for course slides and infographics).  
+
+---
+
+### 🧩 Soft Skills  
+- *Leadership:* Managing operations and coordinating teams at DotPy.  
+- *Communication:* Simplifying technical topics for different audiences.  
+- *Organization:* Structuring learning materials and workflows efficiently.  
+- *Creativity:* Building engaging AI educational content.  
+- *Collaboration:* Working effectively within multidisciplinary student teams.  
+
+---
+
+## 🌐 Connect With Me  
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-
-  <!-- Data Science Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-
-  <!-- AI & ML Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="50" height="50"/>
-
-  <!-- Web Framework -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
-
-  <!-- Data Visualization / BI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <a href="https://www.linkedin.com/in/judy-kasbar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/judykasbar">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:judykasbar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-
 ---
 
-## 🌐 Connect with Me  
-[LinkedIn](https://linkedin.com/in/judykasbar) | [Kaggle](https://kaggle.com/) | [Portfolio Website](https://judykasbar.github.io/)
+⭐ “Turning curiosity into code and ideas into impact.”
